@@ -21,5 +21,5 @@
 #### Integrantes
 
 Rodrigo Cardoso | Francisco Peres
-- | -
+--------------- | ----------------
 <img width="150" height="150" src="assets/rodrigo.jpg"> | <img width="150" height="150" src="assets/francisco.jpg">
