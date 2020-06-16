@@ -2,7 +2,7 @@
 
 ## Repositório com projetos e atividades da disciplina de Sistemas Distribuídos
 
-### Atividade 1 - Síntese dos conceitos e caracterização de sistemas distribuídos
+### Atividade S01E01 - Síntese dos conceitos e caracterização de sistemas distribuídos
 
 Essa atividade visa ajudar os alunos a sintetizar os conceitos e as características dos sistemas distribuídos.
 
