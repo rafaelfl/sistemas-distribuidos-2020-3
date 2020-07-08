@@ -4,9 +4,9 @@
 
 ### Atividade S04E01 - Síntese sobre Migração de Processos em Sistemas Distribuídos
 
-Essa atividade visa ajudar você a sintetizar as informações sobre a migração de processos em sistemas distribuídos.
+Essa atividade visa ajudar você a sintetizar as informações sobre a **Migração de Processos** em sistemas distribuídos.
 
-* Você deverá escrever um **artigo no Medium** sintetizando os seus aprendizados a respeito da unidade S04E01 (*Threads e Migração de Processos*)
+* Você deverá escrever um **artigo no Medium** sintetizando os seus aprendizados a respeito do conteúdo **Migração de Processos** da unidade S04E01 (*Threads e Migração de Processos*)
 
 - Como realizar a atividade?
   Essa síntese é **diferente** das demais, pois dessa vez você deverá escrever um artigo no Medium!
