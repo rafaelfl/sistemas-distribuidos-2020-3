@@ -2,7 +2,21 @@
 
 ## Repositório com projetos e atividades da disciplina de Sistemas Distribuídos
 
-### Atividade S04E01 - Síntese sobre Migração de Processos em Sistemas Distribuídos
+### Atividade S04E02 - Texto sobre Sincronização de Relógios em Sistemas Distribuídos
+
+Essa atividade visa ajudar você a sintetizar as informações sobre a unidade **Relógios** em sistemas distribuídos.
+
+* Você deverá escrever um **artigo no Medium** sintetizando os seus aprendizados a respeito do conteúdo **Sincronização de Relógios** da unidade S04E02
+
+- Como realizar a atividade?
+  Você deverá escrever um artigo no Medium!
+  
+  1. Publicou seu texto no Medium? Manda uma mensagem no no canal do Discord `#atv-s04e02` com as seguintes informações:
+    - Nome completo
+    - Link para o artigo no Medium
+  Estarei à disposição no Discord durante o horário da aula para tirar eventuais dúvidas.
+
+### Atividade S04E01 - Texto sobre Migração de Processos em Sistemas Distribuídos
 
 Essa atividade visa ajudar você a sintetizar as informações sobre a **Migração de Processos** em sistemas distribuídos.
 
@@ -11,7 +25,7 @@ Essa atividade visa ajudar você a sintetizar as informações sobre a **Migraç
 - Como realizar a atividade?
   Essa síntese é **diferente** das demais, pois dessa vez você deverá escrever um artigo no Medium!
   
-  1. Publicou seu text no Medium? Manda uma mensagem no no canal do Discord `#atv-s04e01` com as seguintes informações:
+  1. Publicou seu texto no Medium? Manda uma mensagem no no canal do Discord `#atv-s04e01` com as seguintes informações:
     - Nome completo
     - Link para o artigo no Medium
   Estarei à disposição no Discord durante o horário da aula para tirar eventuais dúvidas.
